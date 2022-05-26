@@ -1,0 +1,26 @@
+1.
+ Python arrays & list items can be accessed with positive or negative numbers (also known as index).
+ - For instance  any array/list is of size n, then for positive index 0 is the first index, 1 second,
+ last index will be n-1.
+2.
+list(range(0, 1001)) function call. As stop argument, we use the number 1001 because it's excluded from the final series.
+3.
+First, we will create a list of values to use in our slicing.
+ # Create two lists to slice, the first is a numeric list from 1 to 9 (List A).
+4.
+ Indexing is used to obtain individual elements. Slicing: Slicing is used to obtain a sequence of elements.
+5.
+ when we slice a sequence outside of bounds, we can still return an empty sequence.
+6.
+1.Use a List and Pass It as an Argument to the Function. 
+Any argument passed on to the function is considered to be of the same data type inside the walls of the function.
+2.Use the tuple() Function in Python
+3.Use the * Operator in Python.
+7.
+whenever the number of sources is not equal to the number of destinations, 
+the assignment problem is called an unbalanced assignment problem.
+8.
+List comprehensions are often not only more readable but also faster than using “for loops.”
+ They can simplify  the code, but if we put too much logic inside, they will instead become harder to read and understand.
+9.
+
